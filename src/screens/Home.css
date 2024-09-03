@@ -1,12 +1,15 @@
 .wrapper {
-  padding: 0 64px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 64px 64px 64px;
   margin: 0 auto;
+  gap: 24px;
   max-width: 1280px;
 }
 
 main {
   display: flex;
-  gap: 16px;
+  gap: 24px;
 }
 
 main .left {
@@ -38,4 +41,9 @@ main .left .btn {
   padding: 16px 56px;
   border-radius: 40px;
   color: white;
+}
+
+section {
+  display: flex;
+  gap: 16px;
 }
