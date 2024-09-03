@@ -1,0 +1,38 @@
+.card {
+  padding: 12px 24px;
+  border-radius: 16px;
+  max-width: 220px;
+}
+
+.card.red {
+  background-color: #f1c2b0;
+}
+
+.card.yellow {
+  background-color: #f9eb98;
+}
+
+.card.green {
+  background-color: #c0d9dd;
+}
+
+.card.blue {
+  background-color: #6975e8;
+}
+
+.card h3 {
+  color: white;
+  font-size: 64px;
+}
+
+.card strong {
+  color: #333333;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.card p {
+  color: #333333;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
