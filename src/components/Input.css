@@ -1,0 +1,25 @@
+.input {
+  display: flex;
+  gap: 16px;
+}
+
+.input.textarea {
+  flex-direction: column;
+  gap: 8px;
+}
+
+.input input {
+  flex: 1;
+  border-radius: 16px;
+  min-height: 24px;
+
+  -webkit-box-shadow: 4px 2px 26px 10px rgba(207, 207, 207, 0.4);
+  -moz-box-shadow: 4px 2px 26px 10px rgba(207, 207, 207, 0.4);
+  box-shadow: 4px 2px 26px 10px rgba(207, 207, 207, 0.4);
+
+  border: 1px solid rgba(207, 207, 207, 0.6);
+}
+
+.input.textarea input {
+  min-height: 256px;
+}
