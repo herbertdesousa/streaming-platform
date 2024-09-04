@@ -8,3 +8,17 @@ nav {
 
   font-size: 18px;
 }
+
+span a {
+  color: #333333;
+  opacity: 1;
+  transition: 200ms;
+}
+
+span a:hover {
+  opacity: 0.8;
+}
+
+span.active {
+  text-decoration: underline;
+}
