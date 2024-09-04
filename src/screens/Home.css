@@ -41,6 +41,11 @@ main .left .btn {
   padding: 16px 56px;
   border-radius: 40px;
   color: white;
+  transition: 200ms;
+}
+
+main .left .btn:hover {
+  transform: translateY(-5px);
 }
 
 section {
