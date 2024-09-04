@@ -1,0 +1,31 @@
+.divider {
+  height: 522px;
+  width: 2px;
+  background-color: #b9b7b7;
+}
+
+.contact-sources {
+  display: flex;
+  flex-direction: row !important;
+  gap: 16px;
+}
+
+.contact-sources img {
+  width: 48px;
+  height: 48px;
+}
+
+.contact-right {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 50%;
+  padding: 64px;
+}
+
+.contact-right button {
+  background-color: #6975e8;
+  border-radius: 8px;
+  color: white;
+  padding: 8px;
+}
