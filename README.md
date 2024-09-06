@@ -6,7 +6,7 @@ Alexandre Assis do Nascimento - RM: 558927
 Gabriel Ferreira - RM: 556476  
 Herbert de Sousa - RM: 555701
 Gustavo Ramalho - RM: 554582  
-Pedro Guidotte - RM: 
+Pedro Guidotte - RM: 556630
 
 # React + Vite
 
